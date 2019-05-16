@@ -1,5 +1,5 @@
 {
-  "name": "incremental-search",
+  "name": "bar-chart",
   "version": "0.0.1",
   "proxy": "http://localhost:3001",
   "dependencies": {
