@@ -4,14 +4,12 @@
   "proxy": "http://localhost:3001",
   "dependencies": {
     "axios": "^0.16.2",
-    "classnames": "^2.2.6",
     "d3": "^5.9.2",
     "d3-tip": "^0.9.1",
     "prop-types": "^15.6.1",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
-    "react-scripts": "1.0.14",
-    "rimraf": "^2.6.3"
+    "react-scripts": "1.0.14"
   },
   "scripts": {
     "start": "react-scripts start",
